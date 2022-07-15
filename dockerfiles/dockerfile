@@ -10,7 +10,7 @@ ENV PYTHONPATH "/workspaces/Recomendador/src"
 
 
 ARG USERNAME=research
-ARG USER_UID=123458
+ARG USER_UID=154678
 ARG USER_GID=$USER_UID
 
 # Create the user
